@@ -1,5 +1,5 @@
 # Path to the train and test data files
-train_file = "./data/train.csv"
+train_file = "./data/train_more.csv"
 test_file = "./data/test.csv"
 
 # declare feature columns and target column
