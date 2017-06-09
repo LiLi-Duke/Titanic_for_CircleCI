@@ -8,5 +8,5 @@ dependencies:
 
 test:
   override:
-    - ./run_tests.sh
+    - bash ./run_tests.sh
     - echo "Test done!"
